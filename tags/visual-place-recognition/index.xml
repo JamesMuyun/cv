@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual Place Recognition | Jiang Muyun</title>
+    <link>/tags/visual-place-recognition/</link>
+      <atom:link href="/tags/visual-place-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <description>Visual Place Recognition</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Visual Place Recognition</title>
+      <link>/tags/visual-place-recognition/</link>
+    </image>
+    
+    <item>
+      <title>ShadowVLAD: Semantic attentional NetVLAD encoding and matching for Place Recognition</title>
+      <link>/publication/c-cvpr-svlad/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/c-cvpr-svlad/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    This paper is submitted and currently under review
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;This paper addresses the problem of large-scale visual place recognition (VPR). To cope with the uneven distribution and the unequal discriminability of visual cues in an image, we provide an attention-regulated encoding paradigm named ShadowVLAD. The paradigm adopts a hierarchical weighted embedding mechanism for both attention-aware local refinement and global integration. The local refinement compounds the semantic prior and a locally double weighting scheme into an interpretable module, where local features are clustered, refined and quantified as informative visual word representations. For global integration, a weighted similarity voting kernel has been proposed to embed those heterogeneous representations into final image descriptor with varying weights. By this means, discriminative visual words play a more important role in similarity voting during indexing. All proposed modules are differentiable and can be optimized in an end-to-end manner. Even without pixel level annotations, the learnt attention turns out to be consistent with human behavior patterns. Experiments demonstrate that ShadowVLAD outperforms previous state-of-the-art techniques on city-scale VPR benchmark data sets.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wenhao Fu | Jiang Muyun</title>
+    <link>/authors/wenhao-fu/</link>
+      <atom:link href="/authors/wenhao-fu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wenhao Fu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Wenhao Fu</title>
+      <link>/authors/wenhao-fu/</link>
+    </image>
+    
+    <item>
+      <title>Place Recognition Using Line-Junction-Line in Urban Environment</title>
+      <link>/publication/c-cisram-ljl/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/c-cisram-ljl/</guid>
+      <description>&lt;p&gt;Place recognition plays a vital role in eliminating accumulated drift from visual odometry in SLAM system. Visual place recognition has been considered a very challenging task, because traditional image key point descriptors suffers from change appearance of a place during multiple traversals. We propose a novel Line-Junction-Line (LJL) descriptor to build Bag of Word (BoW) dictionary for robust place recognition in urban environments. Line-Junction-Line is a structure of two lines with their intersection. LJL is superior than those descriptors detected based on pixel intensity patterns such as ORB or SIFT is that it represents structure with physical existence, which is more robust to challenging scenarios. Moreover, its descriptor is distinctive and encodes the relationship between the two lines. Experiments on KITTI dataset show the effectiveness of the proposed method compared to loop detection using BoW trained with either point or line features.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
